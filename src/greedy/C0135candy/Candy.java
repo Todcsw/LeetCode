@@ -1,9 +1,9 @@
-package greedy.A0135candy;
+package greedy.C0135candy;
 
 /**
  * @Auther: 行路
  * @Date: Created on 2021/3/12 8:11 星期五
- * @Description: greedy.A0135candy  leetCode 135.分发糖果
+ * @Description: greedy.C0135candy  leetCode 135.分发糖果
  * @version: 1.0
  */
 public class Candy {
